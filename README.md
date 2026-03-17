@@ -2,9 +2,9 @@
 
 A collection things made just for fun
 
-[kindofsortof.com](https://kindofsortof.com) 
-[CodePen](https://codepen.io/naomimaria) 
-[CodePen Collection](https://codepen.io/collection/yyERBO)
+- [kindofsortof.com](https://kindofsortof.com) 
+- [CodePen](https://codepen.io/naomimaria) 
+- [CodePen Collection](https://codepen.io/collection/yyERBO)
 
 ## Tools
 
