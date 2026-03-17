@@ -10,9 +10,10 @@ A collection browser-based experiments made just for fun.
 
 Coming soon.
 
-## Built With
+## Credits
 
-All tools are built in collaboration with [Claude](https://claude.ai) by Anthropic.
+- Design and illustration by [Naomi María](https://naomari.com).
+- Code built in collaboration with [Claude](https://claude.ai) by Anthropic.
 
 ## License
 
