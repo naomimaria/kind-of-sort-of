@@ -1,6 +1,6 @@
 # kind of sort of
 
-A collection things made just for fun
+A collection things made just for fun.
 
 - [kindofsortof.com](https://kindofsortof.com) 
 - [CodePen](https://codepen.io/naomimaria) 
